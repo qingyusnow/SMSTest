@@ -23,6 +23,6 @@ def post(url):
     print(req.text)
 
 if __name__ == '__main__':
-    phone_number = "13467025014"
+    phone_number = "17535890269"
 
-    post("https://n.cg.163.com/api/v1/phone-captchas/86-13467025014")
+    post("https://n.cg.163.com/api/v1/phone-captchas/86-17535890269")
