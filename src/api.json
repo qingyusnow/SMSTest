@@ -1,0 +1,13 @@
+[
+  {
+    "desc": "网易游戏",
+    "url": "https://n.cg.163.com/api/v1/phone-captchas/86-[phone]",
+    "method": "post",
+    "header": {
+
+    },
+    "data": {
+
+    }
+  }
+]
